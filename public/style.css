@@ -1,0 +1,126 @@
+/* Navbaar */
+.vv{
+    background-color:#1687a7;
+    /* position: fixed; */
+   color:black;
+   z-index:1;
+}
+.nav-item{
+    margin-left: 2.5rem !important;
+}
+a:hover{
+    color: azure !important;
+}
+ .navbar-brand{
+  
+    font-size: larger;
+    font-family: 'Zen Dots', cursive;
+    font-weight: 900; 
+}   
+li {
+    
+    font-size: large;
+}
+.offer{
+    min-height: 590.89px;
+    background-color: #d3e0ea; 
+}
+
+ /* OFFER */
+#testimonials
+   {
+     text-align: center;
+  padding: 6% 20% 0;
+  color:darkslategray;
+   min-height: 370px;
+   /* min-height: 590.89px; */
+}
+.carousel-item{
+    padding : 7% 15%;
+ }
+ .slide{ text-align: center;
+
+ }
+ .img2{
+    margin: 2rem;
+    border-radius:100%;
+    width: 50%;
+  }
+ .link-div{
+     text-align: center;
+ }
+
+
+
+/* FEATURES */
+#features{
+    padding:7% 10%;
+  }
+  .feat{
+    text-align: center;
+    padding:3%;
+  }
+  .ii{
+    color: #ef8172;
+    margin-bottom: 2rem;
+  }
+  .ii:hover{
+    color:#1687a7;
+  }
+
+
+
+
+ /* FOOTER */
+ .footer{
+     background-color:#d3e0ea;
+     margin-top: 2rem;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     padding: 1rem;
+     color:grey;
+ }
+ .mail{
+     color:grey;
+     margin-left: 1rem;
+     padding-bottom: 1rem;
+ }
+ .copyright{
+     padding-top: 1rem;
+ }
+  .mail :hover {
+    color:#1687a7 !important;
+ }
+
+ /* DISPLAY */
+ .card-container {
+
+     text-align: center;
+    margin: 5% auto;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card-main {
+    width: 450px;
+    /* min-width: 300px; */
+    margin: 0  10px 0;
+    text-align: center;
+}
+.card {
+    border-radius: 25px;
+    position: relative;
+    padding: 25px 25px;
+    background-color: #81ecec;
+    margin: 50px 0;
+    /* height: 200px; */
+    box-shadow: 0 2px 5px #ccc;
+    text-align: center;
+}
+
+.display-img{
+   width: 390px;
+   height:280px;
+}
